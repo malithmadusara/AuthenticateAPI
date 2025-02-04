@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AuthenticateAPI/.vs/AuthenticateAPI
+/AuthenticateAPI/bin/Debug/net8.0
+/AuthenticateAPI/obj
